@@ -1,0 +1,25 @@
+.titulo {
+color: gray;
+text-align: center;
+font-weight: 700;
+font-size: 100px;
+}
+
+.txtprata {
+    color: silver;
+    text-align: center;
+}
+
+.txtpreto {
+    text-align: center;
+    color:black
+    
+}
+
+.paragrafo {
+    text-align: center;
+    color: #a1ced8;
+    font-size: 20px;
+    
+
+}
